@@ -5,12 +5,6 @@ Demos and results of our method. Code will be available soon...
 
 #### Results on DTU dataset:
 
-```text
-| acc.      | comp. | overall     |
-| :---        |    :----:   |          ---: |
-| 0.379      | 0.278       | 0.328   |
-```
-
 | acc.  | comp. | overall |
 | :---: | :---: | :-----: |
 | 0.379 | 0.278 |  0.328  |
